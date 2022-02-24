@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PastelCartel
+- 👋 Hi, I’m @PastelCartel, Recruiter @ Snyk trying to learn coding
 - 👀 I’m interested in secure coding
 - 🌱 I’m currently learning Snyk tools for devs
 - 💞️ I’m looking to collaborate on Dev Security
